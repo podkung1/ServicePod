@@ -12,6 +12,7 @@
 		C2E58B851FDBA33D0064C848 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E58B831FDBA33D0064C848 /* Main.storyboard */; };
 		C2E58B871FDBA33D0064C848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2E58B861FDBA33D0064C848 /* Assets.xcassets */; };
 		C2E58B8A1FDBA33D0064C848 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E58B881FDBA33D0064C848 /* LaunchScreen.storyboard */; };
+		C2E58B921FDBB3DB0064C848 /* if_bulldozer_45455.png in Resources */ = {isa = PBXBuildFile; fileRef = C2E58B911FDBB3DB0064C848 /* if_bulldozer_45455.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C2E58B861FDBA33D0064C848 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2E58B891FDBA33D0064C848 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2E58B8B1FDBA33D0064C848 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2E58B911FDBB3DB0064C848 /* if_bulldozer_45455.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_bulldozer_45455.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C2E58B811FDBA33D0064C848 /* ViewController.swift */,
 				C2E58B831FDBA33D0064C848 /* Main.storyboard */,
 				C2E58B861FDBA33D0064C848 /* Assets.xcassets */,
+				C2E58B911FDBB3DB0064C848 /* if_bulldozer_45455.png */,
 				C2E58B881FDBA33D0064C848 /* LaunchScreen.storyboard */,
 				C2E58B8B1FDBA33D0064C848 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2E58B921FDBB3DB0064C848 /* if_bulldozer_45455.png in Resources */,
 				C2E58B8A1FDBA33D0064C848 /* LaunchScreen.storyboard in Resources */,
 				C2E58B871FDBA33D0064C848 /* Assets.xcassets in Resources */,
 				C2E58B851FDBA33D0064C848 /* Main.storyboard in Resources */,
