@@ -9,6 +9,31 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+// Explicit ประกาศตัวแปร
+    var nameString: String = ""
+    
+    
+    
+    
+    
+    @IBOutlet weak var myTextField: UITextField!
+    
+    
+    @IBAction func clickAction(_ sender: Any) {
+        
+        nameString = myTextField.text!
+        
+//        Show LogCat โชว์คอนโซลด้านล่าง
+        print("nameString ==> \(nameString)")
+        
+    }  // click Action
+    
+    
+    
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,5 +46,5 @@ class ViewController: UIViewController {
     }
 
 
-}
+}   //Main Class
 
